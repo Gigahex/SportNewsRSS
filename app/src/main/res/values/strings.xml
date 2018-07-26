@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Спортивные новости</string>
+    <string name="button_text">Подробнее...</string>
+    <string name="info_content">Данное приложение использует RSS Sports.ru для представления новостей.</string>
+</resources>
